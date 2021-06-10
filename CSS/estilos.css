@@ -1,9 +1,8 @@
 
-    body{
+  
         background-color: rgb(32, 5, 133)
-            color white }
-        h1,h2,h3{font-family: fantasy}
-        p{font-family: bold,arial,times new roman, monospace, cursive }
+            color hsl(0, 84%, 46%) }
+        p{font-family: bold, }
         font-size:18px;
         
 
